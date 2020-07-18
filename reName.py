@@ -1,5 +1,5 @@
 import os
-
+import numpy
 
 
 path ='..\\红树林鸟类声音\\mp3\\0黑领椋鸟'
